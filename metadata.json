@@ -1,0 +1,7 @@
+{
+  "name": "Asado Marketing OS - Settings & Onboarding",
+  "description": "A comprehensive brand identity, asset management, and social media scheduling engine for restaurants.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
